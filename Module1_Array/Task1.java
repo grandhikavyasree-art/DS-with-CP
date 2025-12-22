@@ -8,7 +8,7 @@ class Main {
             System.out.println(num[i]);
         }
         
-        String[] names = {"sai","raju","sony"};
+        String[] names = {"kavya","bhavs","madhu"};
         for(int i=0;i<names.length;i++){
             System.out.println(names[i]);
         }
